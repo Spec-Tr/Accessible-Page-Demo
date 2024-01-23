@@ -4,7 +4,7 @@
 
 ## Description
 
-A mockup of a webpage that was provided in the form of starter code that required modification to affect implementation of the following basic features; proper use of semantic tags, responsiveness, dynamic styling, etc.
+A mockup of a webpage that was provided in the form of starter code that required modification to affect implementation of the following basic features; proper use of semantic elements, alt. tags, responsiveness, etc.
 
 ## Link to Deployed Website
 
